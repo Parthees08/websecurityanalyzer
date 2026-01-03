@@ -1,0 +1,22 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+button {
+  cursor: pointer;
+}
